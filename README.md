@@ -1,2 +1,2 @@
 # Book-management-system
-cs homework
+My C program language lesson project.
